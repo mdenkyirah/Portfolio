@@ -40,19 +40,28 @@ ABOUT
     font-size: 19px;
 }
 
-#about.vocation{
+#about .vocation{
     font-size: 17px;
     color: #A8A8AB;
     margin-bottom: 10px;
 }
 
-#about.skills{
-    font-size: 13px;
+#about .skills{
+    font-size: 14px;
     color: #00ABAE;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
-#about.email{
+#about .email{
     margin-top: 14px;
-    font-size: 20px;
+    font-size: 14px;
+}
+
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#about .icons a{
+    color: #000;
 }
