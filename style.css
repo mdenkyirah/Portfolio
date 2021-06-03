@@ -28,7 +28,7 @@ h2{
 }
 
 a.font-black{
-    color: #000 ! important;
+    color: #000 !important;
 }
 /*****************
 
@@ -62,7 +62,7 @@ ABOUT
 #about .skills{
     font-size: 14px;
     color: #00ABAE;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 #about .email{
@@ -87,7 +87,7 @@ PROJECT
 
 #project {
     margin: 60px auto;
-    width: 50%;
+    width: 80%;
 }
 
 #project h2{
